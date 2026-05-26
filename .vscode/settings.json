@@ -1,6 +1,16 @@
 {
-    "[html]": {
-        "editor.tabSize": 4
-    },
-    "editor.detectIndentation": false
+  "[html]": {
+    "editor.tabSize": 4
+  },
+
+  "editor.detectIndentation": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.stickyScroll.enabled": false,
+  "editor.formatOnSave": true,
+  "chat.disableAIFeatures": true,
+
+  "editor.guides.bracketPairs": true,
+  "editor.bracketPairColorization.enabled": true
 }
