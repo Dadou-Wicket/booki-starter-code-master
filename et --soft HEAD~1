@@ -1,0 +1,30 @@
+[33m4214724[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m9b6d1ab[m HEAD@{1}: reset: moving to HEAD~1
+[33mda09412[m HEAD@{2}: commit: feat: implement mobile responsive design
+[33m9b6d1ab[m HEAD@{3}: rebase (finish): returning to refs/heads/main
+[33m9b6d1ab[m HEAD@{4}: rebase (reword): feat: implement tablet responsive design
+[33mbcb59e6[m HEAD@{5}: rebase (reword): Projet final v2
+[33m4214724[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{6}: rebase (reword): style: style search form
+[33m5becc00[m HEAD@{7}: rebase (reword): Projet final
+[33m8b0c4b0[m HEAD@{8}: rebase (reword): style: add hover effect on navigation links
+[33m7ebf769[m HEAD@{9}: rebase: fast-forward
+[33m45f4c4e[m HEAD@{10}: rebase: fast-forward
+[33mcb9177a[m HEAD@{11}: rebase (start): checkout cb9177af6db1f717bbf8e2f6f48bee55954f1b8e
+[33m350ab0e[m HEAD@{12}: rebase (finish): returning to refs/heads/main
+[33m350ab0e[m HEAD@{13}: rebase (pick): Projet final v2
+[33m2d83426[m HEAD@{14}: rebase (pick): Projet final
+[33m7ebf769[m HEAD@{15}: rebase (pick): Ajout border-top qui apparait au survol
+[33m45f4c4e[m HEAD@{16}: rebase (reword): Initial commit
+[33md2ee1e7[m HEAD@{17}: rebase: fast-forward
+[33mb4859ba[m HEAD@{18}: rebase (start): checkout b4859baf76f33f71b6bc5be733290152b579e087
+[33mca709b2[m HEAD@{19}: rebase (abort): returning to refs/heads/main
+[33mca709b2[m HEAD@{20}: rebase (abort): returning to refs/heads/main
+[33mca709b2[m HEAD@{21}: rebase (abort): returning to refs/heads/main
+[33mca709b2[m HEAD@{22}: rebase (abort): returning to refs/heads/main
+[33mca709b2[m HEAD@{23}: rebase (abort): returning to refs/heads/main
+[33mca709b2[m HEAD@{24}: rebase (abort): returning to refs/heads/main
+[33mf55d771[m HEAD@{25}: commit (amend): Initial commit
+[33mca709b2[m HEAD@{26}: commit: Projet final v2
+[33m730f65e[m HEAD@{27}: commit: Projet final
+[33mbfcfe67[m HEAD@{28}: commit: Ajout border-top qui apparait au survol
+[33md2ee1e7[m HEAD@{29}: commit (initial): Premier commit
