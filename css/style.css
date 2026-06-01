@@ -366,6 +366,9 @@ h2 {
   font-weight: 700;
   padding: 20px 19px 20px 19px;
   border-radius: 0 0 20px 20px;
+  height: 59px;
+  display: flex;
+  align-items: center;
 }
 
 /****** Footer ***********/
@@ -450,6 +453,8 @@ h2 {
     padding: 0 19px 0 19px;
     height: 70px;
   }
+
+
 }
 
 /* Small devices (phones, less than 768px) */
