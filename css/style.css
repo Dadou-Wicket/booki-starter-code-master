@@ -285,6 +285,7 @@ h2 {
 .show-more {
   font-size: 18px;
   font-weight: 700;
+  min-width: 200px;
 }
 
 /****** Populaires ***********/
